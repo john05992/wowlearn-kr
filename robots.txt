@@ -1,4 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wowlearn.kr/sitemap.xml
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://wowlearn.kr/sitemapx.xml
